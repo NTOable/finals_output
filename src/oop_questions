@@ -1,0 +1,18 @@
+Q1. Determine if School bus is also an instance of the Vehicle class.
+- Done (vehicle_types)
+
+Q2. Build a class Employee with multiple constructors that
+can initialize an employee object in different ways.
+- Done (employee)
+
+Q3. Build a two class call SchoolOne and SchoolTwo that
+displays the list of students average grades and GPA.
+- Done (district_grades)
+
+Q4. Operator Overloading: Create a Vector class that supports
+addition using the + operator, allowing you to add two vectors.
+- Done (vector_addition)
+
+Q5. Composition Over Inheritance: Create a Book class with a Author class
+included within it, demonstrating composition over inheritance.
+- Done (library_system)

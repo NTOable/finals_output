@@ -1,0 +1,15 @@
+Required Implementation:
+    Encapsulation - Done (employee)
+    Inheritance - Done (vehicle_types)
+    Polymorphism - Done (Inheritance) (vehicle_types) -> (use either Inheritance Implementation or Duck Typing Implementation)
+    Abstraction - Done (district_grades)
+    Methods - Done (Instance, Static) (vehicle_types) Done (Class) (employee) -> (use either of the following: Instance, Static, Class)
+
+Optional Implementation:
+    Aggregation - Done (library_system)
+    Aggregation and Composition - Done (library_system)
+    Nested Class - Done (library_system)
+    Dunder Methods - Done (__init__) (__add__) (__str__)
+
+Deadline: April 12
+https://ciit.instructure.com/courses/19891/assignments/84026
